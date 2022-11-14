@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnimeWatchParty/static/css/main.103834da.css",
+    "main.js": "/AnimeWatchParty/static/js/main.f655ae4a.js",
+    "index.html": "/AnimeWatchParty/index.html",
+    "main.103834da.css.map": "/AnimeWatchParty/static/css/main.103834da.css.map",
+    "main.f655ae4a.js.map": "/AnimeWatchParty/static/js/main.f655ae4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.103834da.css",
+    "static/js/main.f655ae4a.js"
+  ]
+}
