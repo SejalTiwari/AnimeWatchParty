@@ -135,7 +135,7 @@ a {
     transition: all 200ms;
     vertical-align: baseline;
     white-space: nowrap;
-    -webkit-user-select: none;
+    user-select: none;
     touch-action: manipulation;
     margin: 0;
 }
